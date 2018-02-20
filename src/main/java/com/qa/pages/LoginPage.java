@@ -11,6 +11,10 @@ public class LoginPage {
 	public void loginSet(){
 		System.out.println("login set");
 	} 
+	public void logout()
+	{
+		System.out.println("login page");
+	}
 	
 
 }
